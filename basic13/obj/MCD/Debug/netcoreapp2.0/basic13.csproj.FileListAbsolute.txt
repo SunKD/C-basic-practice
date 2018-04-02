@@ -1,0 +1,10 @@
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\bin\MCD\Debug\netcoreapp2.0\basic13.deps.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\bin\MCD\Debug\netcoreapp2.0\basic13.runtimeconfig.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\bin\MCD\Debug\netcoreapp2.0\basic13.runtimeconfig.dev.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\bin\MCD\Debug\netcoreapp2.0\basic13.dll
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\bin\MCD\Debug\netcoreapp2.0\basic13.pdb
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\obj\MCD\Debug\netcoreapp2.0\basic13.csproj.CoreCompileInputs.cache
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\obj\MCD\Debug\netcoreapp2.0\basic13.AssemblyInfoInputs.cache
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\obj\MCD\Debug\netcoreapp2.0\basic13.AssemblyInfo.cs
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\obj\MCD\Debug\netcoreapp2.0\basic13.dll
+C:\Users\SunDa\Desktop\DojoAssignments\C#\basic13\obj\MCD\Debug\netcoreapp2.0\basic13.pdb

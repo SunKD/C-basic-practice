@@ -1,0 +1,10 @@
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\bin\MCD\Debug\netcoreapp2.0\boxingUnboxsing.deps.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\bin\MCD\Debug\netcoreapp2.0\boxingUnboxsing.runtimeconfig.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\bin\MCD\Debug\netcoreapp2.0\boxingUnboxsing.runtimeconfig.dev.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\bin\MCD\Debug\netcoreapp2.0\boxingUnboxsing.dll
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\bin\MCD\Debug\netcoreapp2.0\boxingUnboxsing.pdb
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\obj\MCD\Debug\netcoreapp2.0\boxingUnboxsing.csproj.CoreCompileInputs.cache
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\obj\MCD\Debug\netcoreapp2.0\boxingUnboxsing.AssemblyInfoInputs.cache
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\obj\MCD\Debug\netcoreapp2.0\boxingUnboxsing.AssemblyInfo.cs
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\obj\MCD\Debug\netcoreapp2.0\boxingUnboxsing.dll
+C:\Users\SunDa\Desktop\DojoAssignments\C#\boxingUnboxsing\obj\MCD\Debug\netcoreapp2.0\boxingUnboxsing.pdb

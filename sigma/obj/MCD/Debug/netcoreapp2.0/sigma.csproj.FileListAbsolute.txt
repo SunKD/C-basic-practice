@@ -1,0 +1,10 @@
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\bin\MCD\Debug\netcoreapp2.0\sigma.deps.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\bin\MCD\Debug\netcoreapp2.0\sigma.runtimeconfig.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\bin\MCD\Debug\netcoreapp2.0\sigma.runtimeconfig.dev.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\bin\MCD\Debug\netcoreapp2.0\sigma.dll
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\bin\MCD\Debug\netcoreapp2.0\sigma.pdb
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\obj\MCD\Debug\netcoreapp2.0\sigma.csproj.CoreCompileInputs.cache
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\obj\MCD\Debug\netcoreapp2.0\sigma.AssemblyInfoInputs.cache
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\obj\MCD\Debug\netcoreapp2.0\sigma.AssemblyInfo.cs
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\obj\MCD\Debug\netcoreapp2.0\sigma.dll
+C:\Users\SunDa\Desktop\DojoAssignments\C#\sigma\obj\MCD\Debug\netcoreapp2.0\sigma.pdb
