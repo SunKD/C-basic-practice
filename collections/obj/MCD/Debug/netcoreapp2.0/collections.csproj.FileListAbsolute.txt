@@ -1,0 +1,10 @@
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\bin\MCD\Debug\netcoreapp2.0\collections.deps.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\bin\MCD\Debug\netcoreapp2.0\collections.runtimeconfig.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\bin\MCD\Debug\netcoreapp2.0\collections.runtimeconfig.dev.json
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\bin\MCD\Debug\netcoreapp2.0\collections.dll
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\bin\MCD\Debug\netcoreapp2.0\collections.pdb
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\obj\MCD\Debug\netcoreapp2.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\obj\MCD\Debug\netcoreapp2.0\collections.AssemblyInfoInputs.cache
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\obj\MCD\Debug\netcoreapp2.0\collections.AssemblyInfo.cs
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\obj\MCD\Debug\netcoreapp2.0\collections.dll
+C:\Users\SunDa\Desktop\DojoAssignments\C#\collections\obj\MCD\Debug\netcoreapp2.0\collections.pdb
