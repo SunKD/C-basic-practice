@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SunDa\\Desktop\\DojoAssignments\\C#\\collections\\collections.csproj",
+      "projectUniqueName": "c:\\Users\\SunDa\\Desktop\\DojoAssignments\\C#\\c# basic\\collections\\collections.csproj",
       "projectName": "collections",
-      "projectPath": "C:\\Users\\SunDa\\Desktop\\DojoAssignments\\C#\\collections\\collections.csproj",
+      "projectPath": "c:\\Users\\SunDa\\Desktop\\DojoAssignments\\C#\\c# basic\\collections\\collections.csproj",
       "packagesPath": "C:\\Users\\SunDa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SunDa\\Desktop\\DojoAssignments\\C#\\collections\\obj\\",
+      "outputPath": "c:\\Users\\SunDa\\Desktop\\DojoAssignments\\C#\\c# basic\\collections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
