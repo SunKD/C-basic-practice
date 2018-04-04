@@ -58,7 +58,7 @@ namespace collections
         static void IcecreamFlavors(string[] arr)
         {
             List<string> icecream = new List<string>(arr.Length);
-            for (var i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
                 icecream.Add(arr[i]);
             }
@@ -83,7 +83,7 @@ namespace collections
                 customersFlavors[customers[i]] = flavors[flavorIndex];
             }
             
-            foreach(var customer in customersFlavors){
+            foreach(KeyValuePair<string, string> customer in customersFlavors){
                 System.Console.WriteLine(customer.Key + " - " + customer.Value);
             }
             
